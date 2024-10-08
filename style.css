@@ -65,8 +65,26 @@ nav ul li a {
   padding: 8px;
 }
 
+.dummycontent {
+  margin: 12px;
+  background-color: aquamarine;
+  border: 8px black;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.content {
+  margin: 12px;
+  background-color: aquamarine;
+  border: 8px black;
+  border-radius: 8px;
+  padding: 8px;
+}
+
 #form-section {
   display: block;
+  position: sticky;
+  top: 0;
   padding: 20px;
   background: #f4f4f4;
   border-radius: 10px;
