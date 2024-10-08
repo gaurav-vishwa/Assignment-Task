@@ -57,6 +57,12 @@ nav ul li a {
   align-items: center;
 }
 
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #para {
   margin: 12px;
   background-color: aquamarine;
