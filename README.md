@@ -17,4 +17,10 @@ lazy loader is applied on images while makes user wait till images are loaded.
 on contact for have added sticky when top content is 0 so it always stays in focus and have also added a box shadow to it.
 error solving took longer time and redo of stuff.
 
+Navigation routes:
+./index.html = home
+./aboutus.html = About
+./services.html = Services
+./contact.html = Contact
+
 future plans is to improve UI design and add needed funtionality like search, data submittion to email, etc.
